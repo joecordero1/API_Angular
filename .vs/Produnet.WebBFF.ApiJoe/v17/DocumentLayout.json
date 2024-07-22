@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\infraestructura\\repositorios\\implementacion\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\infraestructura\\repositorios\\implementacion\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\controllers\\controladorejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\controllers\\controladorejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\dominio\\dto\\crearpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\dominio\\dto\\crearpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\infraestructura\\datos\\contextoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\infraestructura\\datos\\contextoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\infraestructura\\repositorios\\interfaz\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\infraestructura\\repositorios\\interfaz\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|c:\\users\\joema\\onedrive\\desktop\\udemy\\api\\produnet.webbff.apijoe\\produnet.webbff.apijoe\\dominio\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B7D7E0-57E4-48E8-B679-EFB8FF89C4A2}|Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe.csproj|solutionrelative:produnet.webbff.apijoe\\dominio\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "controladorEjemplo.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Controllers\\controladorEjemplo.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Controllers\\controladorEjemplo.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Controllers\\controladorEjemplo.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Controllers\\controladorEjemplo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:56:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearPersonaDto.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Dominio\\DTO\\CrearPersonaDto.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Dominio\\DTO\\CrearPersonaDto.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Dominio\\DTO\\CrearPersonaDto.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Dominio\\DTO\\CrearPersonaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:28:36.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Interfaz\\IPersonaRepositorio.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Interfaz\\IPersonaRepositorio.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Interfaz\\IPersonaRepositorio.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Interfaz\\IPersonaRepositorio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:35:56.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextoAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Datos\\ContextoAplicacion.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Datos\\ContextoAplicacion.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Datos\\ContextoAplicacion.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Datos\\ContextoAplicacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:32:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Implementacion\\PersonaRepositorio.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Implementacion\\PersonaRepositorio.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Implementacion\\PersonaRepositorio.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Infraestructura\\Repositorios\\Implementacion\\PersonaRepositorio.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:42:58.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Dominio\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Dominio\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Dominio\\Modelos\\Persona.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Dominio\\Modelos\\Persona.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:52:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:32:21.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Program.cs",
+              "RelativeDocumentMoniker": "Produnet.WebBFF.ApiJoe\\Program.cs",
+              "ToolTip": "C:\\Users\\joema\\OneDrive\\Desktop\\udemy\\API\\Produnet.WebBFF.ApiJoe\\Produnet.WebBFF.ApiJoe\\Program.cs",
+              "RelativeToolTip": "Produnet.WebBFF.ApiJoe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:06:43.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

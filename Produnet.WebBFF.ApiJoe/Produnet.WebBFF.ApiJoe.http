@@ -1,0 +1,6 @@
+@Produnet.WebBFF.ApiJoe_HostAddress = http://localhost:5134
+
+GET {{Produnet.WebBFF.ApiJoe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

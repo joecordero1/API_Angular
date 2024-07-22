@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Produnet.WebBFF.ApiJoe.props" />
+</Project>
